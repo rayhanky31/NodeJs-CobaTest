@@ -1,0 +1,26 @@
+{
+  "name": "coba-nodejs-saja-mas",
+  "version": "1.0.0",
+  "description": "FGA Backend 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhanky31/NodeJs-CobaTest.git"
+  },
+  "author": "Rayhan Kurnia Yusda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayhanky31/NodeJs-CobaTest/issues"
+  },
+  "homepage": "https://github.com/rayhanky31/NodeJs-CobaTest#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
